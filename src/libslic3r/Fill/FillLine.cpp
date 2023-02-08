@@ -119,5 +119,5 @@ void FillLine::_fill_surface_single(
     }
 }
 
-} // namespace Slic3r This file in particular
+} // namespace Slic3r This file in particular ..
 
